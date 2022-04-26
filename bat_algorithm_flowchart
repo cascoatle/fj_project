@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T12:05:28.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QVhFd-Jfsbjmt7w_Lgnd" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T12:08:40.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TpZvAQTJz-Ilv-ydUdoV" version="17.4.6" type="github">
   <diagram id="Ab8Pe2f_19aGgv71nh5m" name="Page-1">
-    <mxGraphModel dx="2418" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,9 +35,6 @@
         </mxCell>
         <mxCell id="rdkSoZgtDcf2hZLxRaLg-7" value="Generate new bat positions by adjusting &lt;br&gt;frequency, velocity and locations.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="180" y="310" width="260" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rdkSoZgtDcf2hZLxRaLg-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://html.scirp.org/file/1-1680214x15.png;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="40" width="388" height="520" as="geometry" />
         </mxCell>
         <mxCell id="rdkSoZgtDcf2hZLxRaLg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="rdkSoZgtDcf2hZLxRaLg-10">
           <mxGeometry relative="1" as="geometry">
