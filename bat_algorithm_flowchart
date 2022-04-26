@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T12:08:40.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TpZvAQTJz-Ilv-ydUdoV" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T12:18:03.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="swDSVndIbv0Ek1ZCMtfc" version="17.4.6" type="github">
   <diagram id="Ab8Pe2f_19aGgv71nh5m" name="Page-1">
     <mxGraphModel dx="1591" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="310" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rdkSoZgtDcf2hZLxRaLg-5" value="2. Initialise each bat&#39;s &lt;br&gt;a. pulse rate&lt;br&gt;b. frequency&lt;br&gt;c. loudness&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="rdkSoZgtDcf2hZLxRaLg-5" value="2. Initialise each bat&#39;s &lt;br&gt;a. pulse rate&lt;br&gt;b. frequency&lt;br&gt;c. loudness&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="235" y="200" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rdkSoZgtDcf2hZLxRaLg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="rdkSoZgtDcf2hZLxRaLg-7">
@@ -33,24 +33,24 @@
             <mxPoint x="310" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rdkSoZgtDcf2hZLxRaLg-7" value="Generate new bat positions by adjusting &lt;br&gt;frequency, velocity and locations.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="180" y="310" width="260" height="50" as="geometry" />
+        <mxCell id="rdkSoZgtDcf2hZLxRaLg-7" value="3. Generate new bat positions by adjusting &lt;br&gt;&amp;nbsp; frequency, velocity and locations&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rdkSoZgtDcf2hZLxRaLg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="rdkSoZgtDcf2hZLxRaLg-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rdkSoZgtDcf2hZLxRaLg-10" value="Move each bat locally using &lt;br&gt;the current best solution&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="215" y="390" width="190" height="60" as="geometry" />
+        <mxCell id="rdkSoZgtDcf2hZLxRaLg-10" value="4. Move each bat locally using &lt;br&gt;&amp;nbsp; &amp;nbsp;the current best solution&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="390" width="205" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rdkSoZgtDcf2hZLxRaLg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="rdkSoZgtDcf2hZLxRaLg-12" target="rdkSoZgtDcf2hZLxRaLg-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rdkSoZgtDcf2hZLxRaLg-12" value="Evaluate fitness and update &lt;br&gt;loudness for each bat.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="215" y="480" width="190" height="50" as="geometry" />
+        <mxCell id="rdkSoZgtDcf2hZLxRaLg-12" value="5. Evaluate fitness and update &lt;br&gt;&amp;nbsp; &amp;nbsp; loudness for each bat.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="html=1;dashed=0;whitespace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="480" width="205" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rdkSoZgtDcf2hZLxRaLg-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="rdkSoZgtDcf2hZLxRaLg-14">
           <mxGeometry relative="1" as="geometry">
